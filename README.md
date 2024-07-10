@@ -7,7 +7,7 @@ This repository contains a simple TO-DO list application developed as part of th
 ## Features
 
 - **Add Tasks:** Easily add new tasks to your list.
-- **Delete Tasks:** Remove tasks when they are completed or no longer needed.
+- **Delete Tasks:** Remove tasks 
 - **Responsive Design:** Accessible on desktop and mobile devices.
 
 ## Technologies Used
@@ -26,7 +26,7 @@ This repository contains a simple TO-DO list application developed as part of th
    - Click the "Add" button.
 
 2. **Deleting a Task:**
-   - Click the "Delete" button next to the task you want to remove.
+   - Click the "Delete"  icon next to the task you want to remove.
 
 
 ## Contributing
